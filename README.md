@@ -1,0 +1,1 @@
+This project will act as my replacement for the 'Odin Project's initial tutorial project they want you to work on, called "odin-recipes". Instead this project is based on something which I have a greater interest in working on and showing off, my warhammer miniature collection!
