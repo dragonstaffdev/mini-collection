@@ -1,5 +1,11 @@
 .titlebox {
-    border: 2px black;
+    border: 5px black;
+    height: 250px;
+    width: fit-content;
+    padding: 10px;
+    margin: auto;
+    position: relative; top: 20px;
+}
+.titlebox.main {
     background-color: sandybrown;
-    color: black;
 }
